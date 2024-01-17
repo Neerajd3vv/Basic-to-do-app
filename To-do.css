@@ -116,10 +116,9 @@ font-weight: bold;
     
 }
 
-/* Responsive Styling */
-@media screen and (max-width: 400px) {
-    .remove,
-    .update-icon {
-        margin-right: 4px; /* Adjust the margin for smaller screens */
+@media screen and (max-width: 600px) {
+    .white-box {
+        margin-left: 2%;
+        margin-right: 2%;
     }
 }
